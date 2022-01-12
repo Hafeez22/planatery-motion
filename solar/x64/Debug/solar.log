@@ -1,0 +1,10 @@
+﻿  solarView.cpp
+C:\Users\Lenovo\source\repos\solar\solar\solarView.cpp(45,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\solar\solar\solarView.cpp(46,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\solar\solar\solarView.cpp(65,9): warning C4101: 'count': unreferenced local variable
+C:\Users\Lenovo\source\repos\solar\solar\solarView.cpp(65,6): warning C4101: 'i': unreferenced local variable
+C:\Users\Lenovo\source\repos\solar\solar\solarView.cpp(194,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\solar\solar\solarView.cpp(195,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\solar\solar\solarView.cpp(197,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\solar\solar\solarView.cpp(198,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  solar.vcxproj -> C:\Users\Lenovo\source\repos\solar\x64\Debug\solar.exe
